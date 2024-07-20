@@ -19,7 +19,7 @@ lib64/
 parts/
 sdist/
 var/
-src/
+ml_project/
 wheels/
 share/python-wheels/
 *.egg-info/
